@@ -1,0 +1,16 @@
+{
+  "name": "ConduitCraft 3D — HK/BS Electrical CAD",
+  "short_name": "ConduitCraft 3D",
+  "description": "3D Electrical Containment, Conduit Routing, HK EMSD CoP Fill Check, BOM & AR Layout Tool",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
